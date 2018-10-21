@@ -1,0 +1,11 @@
+{
+  "name": "archstudio",
+  "version": "1.0.0",
+  "description": "web",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "uj",
+  "license": "ISC"
+}
