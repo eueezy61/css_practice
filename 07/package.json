@@ -1,0 +1,11 @@
+{
+  "name": "artisticblog",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "ej",
+  "license": "ISC"
+}
